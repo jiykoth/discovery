@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #admin_analytics {
   background-image: url('../images/admin_analytics.jpg');
   height: 2010px;
@@ -79,6 +80,9 @@
   position: absolute;
   width: 1353px;
 }body {
+=======
+body {
+>>>>>>> c9886744dcb797815848bd0c7b51d4f0cf1ee64a
   float: left;
 	font-family:'Open Sans', sans-serif !important;
 }
@@ -88,6 +92,12 @@ a {
 a:hover {
   color: darkblue;
 }
+<<<<<<< HEAD
+=======
+#default_html {
+  background-image: url('../images/default_html.jpg');
+}
+>>>>>>> c9886744dcb797815848bd0c7b51d4f0cf1ee64a
 #main_div {
   float: left;
 }
@@ -118,6 +128,7 @@ a:hover {
   font-size: 12px;
   width: 100%;
 }
+<<<<<<< HEAD
 
 /* default_html specific */
 #default_html {
@@ -261,3 +272,5 @@ a:hover {
   position: absolute;
   width: 1358px;
 }
+=======
+>>>>>>> c9886744dcb797815848bd0c7b51d4f0cf1ee64a

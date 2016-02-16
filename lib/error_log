@@ -449,6 +449,7 @@
 [12-Feb-2016 14:54:43 America/Denver] PHP Notice:  Use of undefined constant name - assumed 'name' in /home3/emailer1/public_html/a/seniorvu/lib/cache.php on line 17
 [12-Feb-2016 14:54:43 America/Denver] PHP Warning:  file_get_contents(../css/admin_sign_up.css): failed to open stream: No such file or directory in /home3/emailer1/public_html/a/seniorvu/lib/cache.php on line 17
 [12-Feb-2016 14:54:43 America/Denver] PHP Notice:  Use of undefined constant name - assumed 'name' in /home3/emailer1/public_html/a/seniorvu/lib/cache.php on line 12
+<<<<<<< HEAD
 [16-Feb-2016 16:25:45 America/Denver] PHP Notice:  Use of undefined constant pages - assumed 'pages' in /home3/emailer1/public_html/a/seniorvu/lib/cache.php on line 10
 [16-Feb-2016 16:25:45 America/Denver] PHP Notice:  Use of undefined constant name - assumed 'name' in /home3/emailer1/public_html/a/seniorvu/lib/cache.php on line 12
 [16-Feb-2016 16:25:45 America/Denver] PHP Warning:  file_get_contents(../js/admin_crm_profile_flyout.js): failed to open stream: No such file or directory in /home3/emailer1/public_html/a/seniorvu/lib/cache.php on line 16
@@ -611,3 +612,5 @@
 [16-Feb-2016 18:12:16 America/Denver] PHP Notice:  Use of undefined constant name - assumed 'name' in /home3/emailer1/public_html/a/seniorvu/lib/cache.php on line 12
 [16-Feb-2016 18:18:47 America/Denver] PHP Notice:  Use of undefined constant pages - assumed 'pages' in /home3/emailer1/public_html/a/seniorvu/lib/cache.php on line 10
 [16-Feb-2016 18:18:47 America/Denver] PHP Notice:  Use of undefined constant name - assumed 'name' in /home3/emailer1/public_html/a/seniorvu/lib/cache.php on line 12
+=======
+>>>>>>> c9886744dcb797815848bd0c7b51d4f0cf1ee64a
