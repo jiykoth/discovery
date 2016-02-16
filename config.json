@@ -1,0 +1,28 @@
+{
+  "pages": [
+    { "name": "admin_analytics" },
+    { "name": "admin_auto_buy" },
+    { "name": "admin_crm_master_list" },
+    { "name": "admin_crm_profile_activity" },
+    { "name": "admin_crm_profile_flyout" },
+    { "name": "admin_home" },
+    { "name": "admin_leads_cart" },
+    { "name": "admin_leads_checkout" },
+    { "name": "admin_leads_lead_created" },
+    { "name": "admin_leads_new_lead" },
+    { "name": "admin_leads_purchased" },
+    { "name": "admin_leads_sticky_footer" },
+    { "name": "admin_leads_submit_order" },
+    { "name": "admin_profile_logged_in" },
+    { "name": "admin_sign_up" },
+    { "name": "admin_sign_up_confirmation" },
+    { "name": "default_html" },
+    { "name": "facility" },
+    { "name": "search_results" },
+    { "name": "search_results_filters" },
+    { "name": "user_about" },
+    { "name": "user_ammenities" },
+    { "name": "user_community" },
+    { "name": "user_reviews" }
+  ]
+}

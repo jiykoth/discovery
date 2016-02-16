@@ -1,0 +1,263 @@
+#admin_analytics {
+  background-image: url('../images/admin_analytics.jpg');
+  height: 2010px;
+  position: absolute;
+  width: 1359px;
+}#admin_auto_buy {
+  background-image: url('../images/admin_auto_buy.jpg');
+  height: 2021px;
+  position: absolute;
+  width: 1356px;
+}#admin_crm_master_list {
+  background-image: url('../images/admin_crm_master_list.jpg');
+  height: 1002px;
+  position: absolute;
+  width: 1356px;
+}#admin_crm_profile_activity {
+  background-image: url('../images/admin_crm_profile_activity.jpg');
+  height: 1003px;
+  position: absolute;
+  width: 1356px;
+}#admin_crm_profile_flyout {
+  background-image: url('../images/admin_crm_profile_flyout.jpg');
+  height: 1003px;
+  position: absolute;
+  width: 1356px;
+}#admin_home {
+  background-image: url('../images/admin_home.jpg');
+  height: 1753px;
+  position: absolute;
+  width: 1355px;
+}#admin_leads_cart {
+  background-image: url('../images/admin_leads_cart.jpg');
+  height: 772px;
+  position: absolute;
+  width: 1357px;
+}#admin_leads_checkout {
+  background-image: url('../images/admin_leads_checkout.jpg');
+  height: 1030px;
+  position: absolute;
+  width: 1357px;
+}#admin_leads_lead_created {
+  background-image: url('../images/admin_leads_lead_created.jpg');
+  height: 945px;
+  position: absolute;
+  width: 1355px;
+}#admin_leads_new_lead {
+  background-image: url('../images/admin_leads_new_lead.jpg');
+  height: 990px;
+  position: absolute;
+  width: 1356px;
+}#admin_leads_purchased {
+  background-image: url('../images/admin_leads_purchased.jpg');
+  height: 817px;
+  position: absolute;
+  width: 1359px;
+}#admin_leads_sticky_footer {
+  background-image: url('../images/admin_leads_sticky_footer.jpg');
+  height: 990px;
+  position: absolute;
+  width: 1357px;
+}#admin_leads_submit_order {
+  background-image: url('../images/admin_leads_submit_order.jpg');
+  height: 809px;
+  position: absolute;
+  width: 1359px;
+}#admin_profile_logged_in {
+  background-image: url('../images/admin_profile_logged_in.jpg');
+  height: 1753px;
+  position: absolute;
+  width: 1355px;
+}#admin_sign_up {
+  background-image: url('../images/admin_sign_up.jpg');
+  height: 1709px;
+  position: absolute;
+  width: 1357px;
+}#admin_sign_up_confirmation {
+  background-image: url('../images/admin_sign_up_confirmation.jpg');
+  height: 1707px;
+  position: absolute;
+  width: 1353px;
+}body {
+  float: left;
+	font-family:'Open Sans', sans-serif !important;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: darkblue;
+}
+#main_div {
+  float: left;
+}
+#quick_nav {
+  border: 1px solid #ddd;
+  float: left;
+  font-size: 12px;
+  margin: 5px;
+  padding: 5px;
+  width: 175px;
+}
+#quick_label {
+  border-bottom: 1px solid #ddd;
+  margin: 0 5px 5px 0;
+  padding: 0 5px 5px 0;
+  text-align: center;
+}
+#rebuild_cache_link {
+  float: left;
+  padding: 0 0 10px 0;
+  width: 100%;
+}
+#page_div {
+  float: left;
+}
+#messages {
+  float: left;
+  font-size: 12px;
+  width: 100%;
+}
+
+/* default_html specific */
+#default_html {
+  background-image: url('../images/default_html.jpg');
+  height: 2000px;
+  position: absolute;
+  width: 1357px;
+}
+#care_select {
+  position: absolute;
+  margin: 306px 0 0 703px;
+  border: 0px solid #fff;
+  font-size: 17px;
+  color: #999;
+  font-weight: bold;
+  width: 218px;
+  cursor: pointer;
+}
+#search_text {
+  margin: 364px 0 0 420px;
+  border-radius: 6px;
+  width: 490px;
+  height: 39px;
+  font-size: 18px;
+  color: #999;
+  padding: 10px 0 0 25px;
+}
+
+#search_btn {
+  margin: 30px 0 0 567px;
+  border: 1px solid green;
+  width: 193px;
+  background-color: green;
+  color: #fff;
+  border-radius: 4px;
+  text-align: center;
+  padding: 15px;
+  cursor: pointer;
+}
+#search_btn:hover {
+  /* background-color: gray; */
+  color: #ddd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#facility {
+  background-image: url('../images/facility.jpg');
+  height: 2021px;
+  position: absolute;
+  width: 1357px;
+}#search_results {
+  background-image: url('../images/search_results.jpg');
+  height: 938px;
+  position: absolute;
+  width: 1357px;
+}#search_results_filters {
+  background-image: url('../images/search_results_filters.jpg');
+  height: 1075px;
+  position: absolute;
+  width: 1359px;
+}#user_about {
+  background-image: url('../images/user_about.jpg');
+  height: 2063px;
+  position: absolute;
+  width: 1358px;
+}#user_ammenities {
+  background-image: url('../images/user_ammenities.jpg');
+  height: 2063px;
+  position: absolute;
+  width: 1359px;
+}#user_community {
+  background-image: url('../images/default_html.jpg');
+  height: 1699px;
+  position: absolute;
+  width: 1359px;
+}#user_reviews {
+  background-image: url('../images/user_reviews.jpg');
+  height: 1672px;
+  position: absolute;
+  width: 1358px;
+}
