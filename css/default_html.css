@@ -1,0 +1,43 @@
+body {
+	float: left;
+	font-family:'Open Sans', sans-serif !important;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: darkblue;
+}
+#default_html {
+	background-image: url('../images/default_html.jpg');
+}
+#main_div {
+	float: left;
+}
+#quick_nav {
+	border: 1px solid #ddd;
+	float: left;
+	font-size: 12px;
+	margin: 5px;
+	padding: 5px;
+	width: 175px;
+}
+#quick_label {
+	border-bottom: 1px solid #ddd;
+	margin: 0 5px 5px 0;
+	padding: 0 5px 5px 0;
+	text-align: center;
+}
+#rebuild_cache_link {
+	float: left;
+	padding: 0 0 10px 0;
+	width: 100%;
+}
+#page_div {
+	float: left;
+}
+#messages {
+	float: left;
+	font-size: 12px;
+	width: 100%;
+}

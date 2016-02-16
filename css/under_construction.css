@@ -1,0 +1,31 @@
+body { background-color: #000; }
+
+#under-construction-img {
+  background-image:
+  url('../images/death-star.jpg');
+  width: 960px; height: 965px;
+  margin: 0 auto;
+}
+
+#under-construction-text {
+  margin: -856px 0 0 756px;
+  color: #999;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  position: relative;
+  font-style: italic;
+}
+
+#under-construction-link {
+  color: #000;
+  margin: 620px 0 0 610px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+#under-construction-link:hover {
+  color: #999;
+}
